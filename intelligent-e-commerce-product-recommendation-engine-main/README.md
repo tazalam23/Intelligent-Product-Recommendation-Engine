@@ -124,6 +124,3 @@ The recommendation engine uses collaborative filtering and content-based filteri
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
-
-For questions or support, visit [jessiedev.xyz](https://jessiedev.xyz)# intelligent-e-commerce-product-recommendation-engine
