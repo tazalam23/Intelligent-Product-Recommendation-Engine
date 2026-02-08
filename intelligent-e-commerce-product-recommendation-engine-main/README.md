@@ -1,7 +1,6 @@
 # Intelligent E-commerce Product Recommendation Engine
 
-**Author:** Jessie Borras  
-**Website:** [jessiedev.xyz](https://jessiedev.xyz)
+
 
 ## Description
 
